@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there. My name is Sergey, and I'm just starting my journey
+ 👋
 
 <!--
 **Kursant71/Kursant71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
